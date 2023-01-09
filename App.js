@@ -18,7 +18,6 @@ import {
   Image,
   useColorScheme,
   ImageBackground,
-  Button,
 } from 'react-native';
 // import ControlledGifView from 'react-native-controlled-gif';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
